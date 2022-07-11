@@ -4,6 +4,10 @@ yarn add react-i18next i18next
 yarn add i18next-http-backend i18next-browser-languagedetector
 yarn add rtcmulticonnection-react-js
 
+// 깃허브 임시 업로드용
+yarn add gh-pages
+참고 : https://www.hohyeonmoon.com/blog/react-js-github-pages-deploy/
+
 id vi en ko
 인도네시아 베트남어 영어 한국어
 
