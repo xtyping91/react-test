@@ -1,0 +1,22 @@
+yarn add react-router-dom
+yarn add axios
+yarn add react-i18next i18next
+yarn add i18next-http-backend i18next-browser-languagedetector
+yarn add rtcmulticonnection-react-js
+
+id vi en ko
+인도네시아 베트남어 영어 한국어
+
+1. swagger
+
+   - https://dev.kolaroid.co/swagger-ui.html#
+
+2. git
+
+- git@github.com:geniekback/kolaroid.git
+
+3. Test Server url
+
+- dev.kolaroid.co/
+
+react SoundMeter
